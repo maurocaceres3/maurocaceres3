@@ -1,4 +1,4 @@
-- Welcome
+- *Welcome*
 
 I'm a 18 year old programmer, currently developing my full-stack skills and
 pursuing a software engineering degree at Universidad Tecnológica Nacional.
